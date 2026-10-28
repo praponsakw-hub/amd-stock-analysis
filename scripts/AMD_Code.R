@@ -5,7 +5,7 @@ library(tseries)
 
 
 
-amd <- read.csv("D:/Download/AMD.csv")
+amd <- read.csv("AMD.csv")
 
 
 
